@@ -1,4 +1,4 @@
-[![Build Status](https://drone.pelo.tech/api/badges/pelotech/mirth_connect/status.svg)](https://drone.pelo.tech/pelotech/mirth_connect)
+[![Build Status](https://drone.pelo.tech/api/badges/pelotech/mirth-connect/status.svg)](https://drone.pelo.tech/pelotech/mirth-connect)
 
 #MIRTH_CONNECT docker container
 
