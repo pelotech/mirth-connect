@@ -1,0 +1,9 @@
+pipeline:
+  publish:
+    image: plugins/docker
+    secrets: [ docker_username, docker_password ]
+    repo: pelotech/mirth-connect
+    auto_tag: true
+    file: Dockerfile
+    when:
+      event: [ push, tag ]
